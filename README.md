@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alok
 - 👀 I’m interested in making discord bots.
-- 🌱 I’m currently learning Pyhthon, Javascript.
+- 🌱 I’m currently learning Python, Javascript.
 - 💞️ I’m looking to collaborate on discord bots.
 - 📫 How to reach me e-mail me on: kumaraloktiwari1@gmail.com
 
